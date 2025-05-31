@@ -4,6 +4,8 @@
     "Alalt_Pemadam_Kebakaran.C": "cpp",
     "Alalt_Pemadam_Kebakaran_dht_h.C": "cpp",
     "Smart_Farming_Non_IoT.C": "cpp",
-    "Smart_Farming_IoT.C": "cpp"
+    "Smart_Farming_IoT.C": "cpp",
+    "Smart_Home.C": "cpp",
+    "Smart_Home_IoT.C": "cpp"
   }
 }
