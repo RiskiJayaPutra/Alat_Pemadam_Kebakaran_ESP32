@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.dbclient-js": "javascript",
+    "Alalt_Pemadam_Kebakaran.C": "cpp",
+    "Alalt_Pemadam_Kebakaran_dht_h.C": "cpp"
+  }
+}
